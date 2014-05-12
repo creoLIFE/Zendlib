@@ -3,6 +3,7 @@
     "type": "library",
     "description": "Zend Framework third party libraries",
     "keywords": ["Zend", "Zend libraries", "Zend Orm"],
+    "version":"1.0.0",
     "minimum-stability": "stable",
     "prefer-stable": true,
     "repositories": [
