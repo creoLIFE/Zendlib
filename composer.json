@@ -1,0 +1,18 @@
+{
+    "name": "creoLIFE/Zendlib",
+    "type": "library",
+    "description": "Zend Framework third party libraries",
+    "version":"1.0.0",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/creoLIFE/Zendlib.git"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+    	"classmap": {
+			"Zf_": "Zf/"
+		}
+    }
+}
